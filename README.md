@@ -5,16 +5,28 @@ Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. 
 
 🔹 **Lenguajes y tecnologías**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" style="pointer-events: none;" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" style="pointer-events: none;" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" style="pointer-events: none;" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="pointer-events: none;" />
+  <span style="display: inline-block; cursor: default;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  </span>
+  <span style="display: inline-block; cursor: default;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  </span>
+  <span style="display: inline-block; cursor: default;">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  </span>
+  <span style="display: inline-block; cursor: default;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  </span>
 </p>
 
 🖥 **Sistemas operativos**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" style="pointer-events: none;" />
-  <img src="https://skillicons.dev/icons?i=windows" title="Windows" style="pointer-events: none;" />
+  <span style="display: inline-block; cursor: default;">
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  </span>
+  <span style="display: inline-block; cursor: default;">
+    <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+  </span>
 </p>
 
 📂 **Repositorio**  
