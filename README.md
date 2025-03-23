@@ -1,14 +1,21 @@
-# 👋 ¡Hola! Soy Yahir Ortega  
+# 👋 Yahir Ortega  
 
-💻 **Desarrollador en formación**  
-Soy un estudiante interesado en el desarrollo de software, con experiencia en tecnologías web y programación en Java. Actualmente, sigo ampliando mis conocimientos en el área de bases de datos y estructuración de información.  
+📌 **Sobre mí**  
+Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Me especializo en desarrollo con Java y tecnologías web, y utilizo este repositorio para subir ejercicios y prácticas realizadas en clase, tanto de programación como de lenguaje de marcas.  
 
 🔹 **Lenguajes y tecnologías**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,xml,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,mysql" />
   </a>
 </p>
 
-📫 **Contacto**  
-Puedes encontrarme en GitHub para ver mis proyectos y avances.  
+🖥 **Sistemas operativos**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </a>
+</p>
+
+📂 **Repositorio**  
+Aquí subo ejercicios de clase, principalmente en Java y MySQL.  
