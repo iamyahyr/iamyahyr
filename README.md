@@ -1,17 +1,14 @@
 # 👋 ¡Hola! Soy Yahir Ortega  
 
-🎯 **Sobre mí**  
-- 💻 Apasionado por la programación y la tecnología.  
-- 🎮 Me encanta Fortnite y crear contenido sobre el juego.  
-- 🎨 También diseño portadas de álbumes de música.  
+💻 **Desarrollador en formación**  
+Soy un estudiante interesado en el desarrollo de software, con experiencia en tecnologías web y programación en Java. Actualmente, sigo ampliando mis conocimientos en el área de bases de datos y estructuración de información.  
 
-🔧 **Tecnologías y herramientas que uso**  
+🔹 **Lenguajes y tecnologías**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,xml,java" />
   </a>
 </p>
 
-📫 **Cómo contactarme**  
-- 💬 Puedes hablarme sobre tecnología, programación o videojuegos.  
-- 📩 [Tu email o redes sociales]  
+📫 **Contacto**  
+Puedes encontrarme en GitHub para ver mis proyectos y avances.  
