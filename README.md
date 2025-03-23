@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Yahir Ortega  
 
-<!--
-**iamyahyr/iamyahyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre mí**  
+- 💻 Apasionado por la programación y la tecnología.  
+- 🎮 Me encanta Fortnite y crear contenido sobre el juego.  
+- 🎨 También diseño portadas de álbumes de música.  
 
-Here are some ideas to get you started:
+🔧 **Tecnologías y herramientas que uso**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,github,git" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Cómo contactarme**  
+- 💬 Puedes hablarme sobre tecnología, programación o videojuegos.  
+- 📩 [Tu email o redes sociales]  
