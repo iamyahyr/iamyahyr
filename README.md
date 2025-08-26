@@ -1,7 +1,7 @@
 # 👋 Yahir Ortega  
 
 📌 **Sobre mí**  
-Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Me especializo en desarrollo con Java y tecnologías web, y utilizo este repositorio para subir ejercicios y prácticas realizadas en clase, tanto de programación como de lenguaje de marcas.  
+Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
 
 🔹 **Lenguajes y tecnologías**  
 <p align="center">
@@ -18,4 +18,3 @@ Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. 
 </p>
 
 📂 **Repositorio**  
-Aquí subo ejercicios de clase, principalmente en Java y MySQL.  
