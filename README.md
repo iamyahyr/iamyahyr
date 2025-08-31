@@ -1,9 +1,9 @@
 # 👋 Yahir
 
-📌 **Sobre mí**  
-Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
+📌 **About me**  
+I am a Higher Degree student in Multiplatform Application Development.
 
-🔹 **Lenguajes y tecnologías**  
+🔹 **Languages and technologies** 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
@@ -13,8 +13,13 @@ Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
-🖥 **Sistemas operativos**  
+🖥 **Operating systems**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
 </p>
+
+## 🚀 Projects
+- 🎮 [**RollerCoin League Calculator**](https://github.com/iamyahyr/rollercoin-league-calculator)  
+  Live demo: [**click here**](https://iamyahyr.github.io/rollercoin-league-calculator/)  
+  *(A calculator for the new RollerCoin league system, with live crypto prices and withdrawal estimates.)*
