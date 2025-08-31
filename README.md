@@ -1,4 +1,4 @@
-# 👋 Yahir Ortega  
+# 👋 Yahir
 
 📌 **Sobre mí**  
 Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
