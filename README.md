@@ -7,7 +7,9 @@ Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
@@ -16,5 +18,3 @@ Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
 </p>
-
-📂 **Repositorio**  
