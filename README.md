@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yahir
 
 📌 **About me**  
-I am a Higher Degree student in Multiplatform Application Development (DAM), specializing in Artificial Intelligence and Big Data. Passionate about full-stack development, blockchain gaming, and building useful tools.
+I am a Higher Degree student in Multiplatform Application Development (DAM). Focused on full-stack development and building practical tools. Planning to specialize in Artificial Intelligence and Big Data.
 
 ## 🔹 **Languages & Frameworks**
 <p align="center">
@@ -44,15 +44,24 @@ I am a Higher Degree student in Multiplatform Application Development (DAM), spe
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
 </p>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 - 🎮 [**RollerCoin League Calculator**](https://github.com/iamyahyr/rollercoin-league-calculator)  
   Live demo: [**click here**](https://iamyahyr.github.io/rollercoin-league-calculator/)  
   *A calculator for the new RollerCoin league system, with live crypto prices and withdrawal estimates.*
 
-## 📊 GitHub Stats
+## 📫 Connect with me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamyahyr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://discord.com/users/anuel_2blea">
+    <img src="https://skillicons.dev/icons?i=discord" title="Discord: anuel_2blea" />
+  </a>
 </p>
 
-## 📫 Connect with me
-Feel free to reach out for collaborations or just to say hi! 👋
+<p align="center">
+  <strong>Discord:</strong> anuel_2blea
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Open to collaborations and interesting projects!</i>
+</p>
