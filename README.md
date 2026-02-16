@@ -29,6 +29,10 @@ I am a Higher Degree student in Multiplatform Application Development (DAM). Foc
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MinIO-Object_Storage-C72E49?style=for-the-badge&logo=minio&logoColor=white" title="MinIO" />
+  <img src="https://img.shields.io/badge/Alembic-Migrations-orange?style=for-the-badge&logo=python&logoColor=white" title="Alembic" />
+</p>
 
 ## 📱 **Mobile & Tools**
 <p align="center">
