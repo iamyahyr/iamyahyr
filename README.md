@@ -48,24 +48,3 @@ I am a Higher Degree student in Multiplatform Application Development (DAM). Foc
   <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
 </p>
 
-## 🚀 Featured Projects
-- 🎮 [**RollerCoin League Calculator**](https://github.com/iamyahyr/rollercoin-league-calculator)  
-  Live demo: [**click here**](https://iamyahyr.github.io/rollercoin-league-calculator/)  
-  *A calculator for the new RollerCoin league system, with live crypto prices and withdrawal estimates.*
-
-## 📫 Connect with me
-<p align="center">
-  <a href="https://discord.com/users/anuel_2blea">
-    <img src="https://skillicons.dev/icons?i=discord" title="Discord: anuel_2blea" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Discord:</strong> anuel_2blea
-</p>
-
----
-
-<p align="center">
-  <i>💡 Open to collaborations and interesting projects!</i>
-</p>
